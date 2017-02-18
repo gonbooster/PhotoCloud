@@ -4,12 +4,7 @@ class DBManager {
 	//Conexion a una bd
 	function conectarDB(){
 		
-		//  /*
-		$hostname = "mysql.hostinger.co";
-		$username = "u219197018_pc";
-		$password = "123456";
-		$db = "u219197018_photo"; 
-		// */
+
 		/*
 		$hostname = "localhost";
 		$username = "root";
